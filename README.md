@@ -34,8 +34,8 @@ It could as well be termed the buzz word for all organizations.
 **Client Brief**
 <br><br>
 `Client name: Pharma Group`  <br>
-`Client industry: Social media & content creation` <br>
-`Year established: 2010` <br>
+`Client industry: Service` <br>
+`Year established: 2011` <br>
 `Location of HQ: Switzerland` <br>
 `Number of employees: 500`
 
@@ -65,3 +65,13 @@ ensure that this goes smoothly.
 2) They are still a small company and do not have the internal resources to run such analytics task
     
 3) They want to learn how to use data to make effective decisions that drives an organization forward.
+
+<br> <br>
+
+# Objective Statement
+- What is the trend in the organization hiring process. is it rising or falling ?
+- An understanding of how employees are distributed across departments
+- Which gender is most dominant across seniority levels at all departments
+- Percentage of hire between gender
+- What is the percentage of promotion at each final year
+- Percentage of turnover amongst employees
