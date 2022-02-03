@@ -75,3 +75,15 @@ ensure that this goes smoothly.
 - Percentage of hire between gender
 - What is the percentage of promotion at each final year
 - Percentage of turnover amongst employees
+
+`
+  Work in Progress
+`
+
+<br>
+<br>
+
+## Dashboard 
+<br>
+
+[![Dashborad Link](dashboard_image/dashboard_1.png)](https://app.powerbi.com/groups/me/reports/b04daa04-3a14-4af4-9d92-2228981013e4/ReportSection)
